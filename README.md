@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **React js, Node js**
+- 🌱 I’m currently learning **Reactjs, Node js**
 
 - 👯 I’m looking to collaborate on **Front-End Developer**
 
@@ -12,9 +12,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuhammadRizwan746c](https://github.com/MuhammadRizwan746c)
 
-- 💬 Ask me about **HTML, Css, JavaScript,Reactjs**
+- 💬 Ask me about **HTML, Css, JavaScript,Reactjs, NodeJs, Bootstrap, Tailwindcss, RestfulAPI, Postman, MongoDB, Express**
 
-- - 📫 How to reach me [rizwanuser92@gmail.com](mailto:rizwanuser92@gmail.com)
+- 📫 How to reach me [rizwanuser92@gmail.com](mailto:rizwanuser92@gmail.com)
 
 - ⚡ Fun fact **Current Focus on learning**
 
