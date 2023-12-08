@@ -49,7 +49,7 @@
 
 #### <img align="left" alt="Rizwan's Spotify" width="75px" src="https://cdn.worldvectorlogo.com/logos/spotify-logo-with-text-1.svg"/> Now Playing 🎧 
 
-[![Spotify](https://spotify-play.rizwanuser92.vercel.app/api/spotify)](https://open.spotify.com/user/31lwibxhcyaxnpq5trezwfh2sgm4)
+[![Spotify](https://open.spotify.com/playlist/37i9dQZF1DWTqYqGLu7kTX)
 
 
 <hr/>
