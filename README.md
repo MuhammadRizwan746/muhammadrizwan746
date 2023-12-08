@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rizwan</h1>
 <h3 align="center">A passionate frontend developer from Lahore Pakistan</h3>
-<img align="right" src="https://github.com/MuhammadRizwan746/Demo-Add/assets/149680816/49701aab-5e9b-4fc0-bd73-849c24a696dc" alt="css3" width="600" height="300"/>
+<img align="right" src="https://github.com/ArslanAmeer/ArslanAmeer/blob/master/assets/arslan-coding.gif" alt="css3" width="600" height="300"/>
 
 - 🔭 I’m currently working on **MERN Stack**
 
