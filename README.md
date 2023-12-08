@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **HTML, Css, JavaScript,Reactjs**
 
-- 📫 How to reach me <u>rizwanuser92gmail.com</u>
+- - 📫 How to reach me [rizwanuser92@gmail.com](mailto:rizwanuser92@gmail.com)
 
 - ⚡ Fun fact **Current Focus on learning**
 
