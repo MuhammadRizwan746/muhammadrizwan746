@@ -1,4 +1,23 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="css3" width="40" height="40"/>, I'm Muhammad Rizwan</h1>
+<h3 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="css3" width="40" height="40"/></h3>
+
+<a href="https://twitter.com/ThELeGenD_Says">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />
+</a>
+<a href="https://www.linkedin.com/in/muhammad-rizwan-776a9727b/">
+  <img align="left" alt="Rizwan's LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
+</a>
+
+<a href="">
+  <img align="left" alt="Rizwan's Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" />
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100029806670939">
+  <img align="left" alt="Rizwan's Facebook" height="22px" src="https://cdn.worldvectorlogo.com/logos/facebook-4.svg" />
+</a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammanrizwan746&label=Profile%20views&color=0e75b6&style=flat" alt="muhammanrizwan746" /> </p>
+<br />
+
 <h2 align="center">A passionate frontend developer from Lahore Pakistan</h2>
 <img align="right" src="https://github.com/ArslanAmeer/ArslanAmeer/blob/master/assets/arslan-coding.gif" alt="css3" width="600" height="400"/>
 
