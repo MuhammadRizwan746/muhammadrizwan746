@@ -1,4 +1,4 @@
-<h3 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="css3" width="40" height="40"/></h3>
+<h3>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="css3" width="40" height="40"/></h3>
 
 <a href="https://twitter.com/ThELeGenD_Says">
   <img align="left" alt="Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />
