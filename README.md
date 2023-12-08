@@ -17,10 +17,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammanrizwan746&label=Profile%20views&color=0e75b6&style=flat" alt="muhammanrizwan746" /> </p>
 
-<h3 align="center">A passionate frontend developer from Lahore Pakistan</h3>
+<h3>A passionate frontend developer from Lahore Pakistan</h3>
 <img align="right" src="https://github.com/ArslanAmeer/ArslanAmeer/blob/master/assets/arslan-coding.gif" alt="css3" width="600" height="400"/>
 
-<h4>Hi, I'm Muhammad Rizwan, a Frontend developer 🚀 from Pakistan, currently, I'm a full time Jr. Software Engineer🧑🏻‍💻 and i'm an Open Source contributer. Beside's programming, I enjoy eating food and traveling.</h4>
+<p>Hi, I'm Muhammad Rizwan, a Frontend developer 🚀 from Pakistan, currently, I'm a full time Jr. Software Engineer🧑🏻‍💻 and i'm an Open Source contributer. Beside's programming, I enjoy eating food and traveling.</p>
 
 - 🔭 I’m currently working on **MERN Stack**
 
