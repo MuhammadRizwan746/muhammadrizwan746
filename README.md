@@ -116,6 +116,8 @@ SCSS                     3 repos             ░░░░░░░░░░░�
   <summary>:zap: 📈 My GitHub Stats</summary>
   <br>
    
-<!--   [![Rizwan GitHub Streak](https://muhammadrizwan746-github-streaks.herokuapp.com?user=arslanameer&theme=dark&date_format=M%20j%5B%2C%20Y%5D)]() -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammanrizwan746&show_icons=true&locale=en&layout=compact" alt="muhammanrizwan746" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammanrizwan746&show_icons=true&locale=en" alt="muhammanrizwan746" /></p>
 
 <hr/>
