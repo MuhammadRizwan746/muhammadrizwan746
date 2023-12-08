@@ -116,8 +116,8 @@ SCSS                     3 repos             ░░░░░░░░░░░�
   <summary>:zap: 📈 My GitHub Stats</summary>
   <br>
    
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadrizwan746&show_icons=true&locale=en&layout=compact" alt="muhammadrizwan746" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadrizwan746&theme=dark&show_icons=true&locale=en&layout=compact" alt="muhammadrizwan746" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadrizwan746&show_icons=true&locale=en" alt="muhammadrizwan746" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadrizwan746&theme=dark&show_icons=true&locale=en" alt="muhammadrizwan746" /></p>
 
 <hr/>
