@@ -59,9 +59,9 @@
   height="400"
 />
 
-  Hi, I'm [Muhammad Rizwan](Muhammad Rizwan), a [Frontend Developer](Frontend Developer) 🚀 from Pakistan, currently, I'm
-  a full time Jr. Software Engineer🧑🏻‍💻 and i'm an Open Source contributer.
-  Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Muhammad Rizwan, a Frontend Developer 🚀 from Pakistan, currently, I'm
+a full time Jr. Software Engineer🧑🏻‍💻 and i'm an Open Source contributer.
+Beside's programming, I enjoy eating food and traveling.
 
 - 🔭 I’m currently working on **MERN Stack**
 - 🌱 I’m currently learning **Reactjs, Node js**
