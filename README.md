@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Rizwan</h1>
-<h3 align="center">A passionate frontend developer from Lahore Pakistan</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="css3" width="40" height="40"/>, I'm Muhammad Rizwan</h1>
+<h2 align="center">A passionate frontend developer from Lahore Pakistan</h2>
 <img align="right" src="https://github.com/ArslanAmeer/ArslanAmeer/blob/master/assets/arslan-coding.gif" alt="css3" width="600" height="400"/>
 
 - 🔭 I’m currently working on **MERN Stack**
