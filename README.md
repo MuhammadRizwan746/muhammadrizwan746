@@ -16,7 +16,6 @@
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammanrizwan746&label=Profile%20views&color=0e75b6&style=flat" alt="muhammanrizwan746" /> </p>
-<br />
 
 <h3 align="center">A passionate frontend developer from Lahore Pakistan</h3>
 <img align="right" src="https://github.com/ArslanAmeer/ArslanAmeer/blob/master/assets/arslan-coding.gif" alt="css3" width="600" height="400"/>
